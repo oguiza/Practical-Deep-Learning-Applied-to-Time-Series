@@ -1,4 +1,4 @@
-## Practical DL applied to TS notebook collection:
+## 1. Practical DL applied to TS notebook collection:
 This is the section where we can share the group's notebooks.
 
 #### By data type: 
@@ -7,12 +7,17 @@ This is the section where we can share the group's notebooks.
 
 #### By application: 
 - TS → images:
+    - Unaltered time series:
+    - Gramian Angular Field (GAF): 
+    - Wavelet transform: 
 - TS → text:
 - TS → tabular data:
 
 #### By NN model types: 
 - CNN models:
 - RNN models:
+    - Without ULMFIT pretraining: 
+    - With ULMFIT pretraining:
 - Hybrid models:
 
 #### By Approach:
@@ -32,10 +37,11 @@ This is the section where we can share the group's notebooks.
 - Multiple steps:
 
 
-## DL applied to TS resources: third party resources
+## 2. DL applied to TS resources: third party resources
 This is the section where we can share useful thrid party resources. 
 
-#### Datasets:
+#### Datasets: 
+- [UEA & UCR Time Series Classification](http://www.timeseriesclassification.com)
 
 #### Libraries/ packages:
 
