@@ -51,7 +51,7 @@ This is the section where we can share useful thrid party resources.
 - [UEA & UCR Time Series Classification](http://www.timeseriesclassification.com): contains 128 univariate and 30 multivariate datasets.
 
 #### Libraries/ packages:
-- [pyts](https://johannfaouzi.github.io/pyts/index.html): 
+- [pyts](https://johannfaouzi.github.io/pyts/index.html): pyts is a Python package for time series transformation and classification. It aims to provide state-of-the-art as well as recently published algorithms for time series classification.
 
 #### Third party notebooks/ repos:
 
