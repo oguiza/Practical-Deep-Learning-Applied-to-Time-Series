@@ -1,8 +1,14 @@
 # Practical-Deep-Learning-Applied-to-Time-Series
 
 Practical DL applied to TS notebook collection:
-Univariate and multivariate datasets:
-UCR:
+
+By input type: 
+- Univariate datasets: 
+    - UCR
+
+- multivariate datasets:
+    - UCR
+
 Application: 
 TS → images:
 TS → text:
