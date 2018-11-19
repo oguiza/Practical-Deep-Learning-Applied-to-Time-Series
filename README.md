@@ -49,6 +49,7 @@ This is the section where we can share useful thrid party resources.
 
 ### Datasets: 
 - [UEA & UCR Time Series Classification](http://www.timeseriesclassification.com): contains 128 univariate and 30 multivariate datasets.
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php): contains 452 ML datasets, with 86 [time series](https://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=&numAtt=&numIns=&type=ts&sort=attUp&view=table) (most multivariate datasets, both classifications and regression).
 
 ### Libraries/ packages:
 - **Algorithms:**
