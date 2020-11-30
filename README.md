@@ -1,3 +1,5 @@
+## If you are interested in times series and fastai you may want to visit the new time series library [`tsai`](https://github.com/timeseriesAI/tsai). It supports Pytorch 1.7 & fastai v2.
+
 ## 1. Practical DL applied to TS notebook collection:
 This is the section where we can share the group's notebooks.
 
