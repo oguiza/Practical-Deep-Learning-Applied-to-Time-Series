@@ -1,6 +1,6 @@
-### This repo is no longer maintained.
+## This repo is no longer maintained.
 
-# If you are interested in times series and fastai visit [`timeseriesAI/tsai`](https://github.com/timeseriesAI/tsai), our state-of-the-art deep learning library for time series and sequential data ![GitHub Repo stars](https://img.shields.io/github/stars/timeseriesAI/tsai?style=plastic)
+## If you are interested in times series and fastai visit [`timeseriesAI/tsai`](https://github.com/timeseriesAI/tsai), our state-of-the-art deep learning library for time series and sequential data ![GitHub Repo stars](https://img.shields.io/github/stars/timeseriesAI/tsai?style=plastic)
 
 ## 1. Practical DL applied to TS notebook collection:
 This is the section where we can share the group's notebooks.
